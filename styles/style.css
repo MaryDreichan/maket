@@ -1,0 +1,21 @@
+
+.menu {
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    padding-left: 129px;
+    
+}
+.menu {
+    display: flex;
+    list-style-type: none;
+}
+.menu li{
+    padding: 10px;
+    cursor: pointer;
+}
+.menu li:hover {
+    font-size: 25px;
+    color: aqua;
+}
+/*Здесь стили для меню
